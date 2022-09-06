@@ -16,7 +16,8 @@
   
   - Learned to use svg as background image.
   - CSS position property.
-  - CSS border,border-radius property.
+  - How to give different color to the fine level text in heading using `<span>` tag.
+  - CSS border, border-radius property.
   - How to use different Google Fonts in webpage.
   
 
